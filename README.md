@@ -1,7 +1,8 @@
 Visit my portfolio at :
-	#www.akramazouzi.me
+
+# www.akramazouzi.me
 
 or :
 
-	#AkramAzouzi.github.io
+# AkramAzouzi.github.io
 
